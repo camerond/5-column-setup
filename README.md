@@ -12,13 +12,4 @@ The naming convention of the shortcuts is `column index/column width`, e.g. 0/1 
 
 Here's how mine are set up, this configuration works nicely with the number pad, but hey, you do you.
 
-Each of these key combos is set up to be ctr-opt-cmd and then the number that follows.
-
-0/1: 1
-0/2: 4
-0.4: 7
-1/2: 5
-1/4: 9
-2/2: 2
-3/2: 6
-4/1: 3
+![](example.png)
